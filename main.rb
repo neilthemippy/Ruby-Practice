@@ -31,7 +31,7 @@ multi-line comment
 
 "Welcome".concat("to").concat("Ruby!") #concatanate
 
-# substrings how to access specific characters in a string
+# substrings how to access specific characters in a string/indexes
 "hello"[0]
 
 "hello"[0..1]
@@ -39,3 +39,4 @@ multi-line comment
 "hello"[0, 4]
 
 "hello"[-1]
+
